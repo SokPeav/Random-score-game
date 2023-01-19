@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/random-number/static/js/main.feefe7e8.js",
+    "static/js/787.8253d986.chunk.js": "/random-number/static/js/787.8253d986.chunk.js",
+    "index.html": "/random-number/index.html",
+    "main.feefe7e8.js.map": "/random-number/static/js/main.feefe7e8.js.map",
+    "787.8253d986.chunk.js.map": "/random-number/static/js/787.8253d986.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.feefe7e8.js"
+  ]
+}
